@@ -1,0 +1,6 @@
+# Ignore everything
+
+# Except .py and .txt files
+!*.py
+!*.txtutils/apikey.py
+.env
