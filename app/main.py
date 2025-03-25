@@ -153,7 +153,7 @@ for message in st.session_state.chat_history:
 
 
 # User input
-if prompt := st.chat_input("Ask me anything about IndiGo Airlines..."):
+if prompt := st.chat_input("Ask me anything about AIonOS Business Travel Policy..."):
     # Display user message immediately
     with st.chat_message("user"):
         st.write(prompt)
